@@ -1,26 +1,31 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kVo6B4M27wSttWqqdM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://t.me/mlksvetik">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=mlksvetikaa&style=flat-square&color=blue" alt=""/>
+  </div>
+  <h1>
+    hey there :hugs:
+  </h1>
 </div>
-<div id="badges" align="center">
-  <a href="https://t.me/mlksvetik">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlksvetikaa&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  hey there :hugs:
-</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2thOHlsdDc5eG5qMHdxY3N2MXhoYndra3YxbGNqbG1oMzR4cDg2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG6OcTSRWaSis/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+    
 ### :woman_technologist: About Me :
-I am a QA Engineer <img src="https://media.giphy.com/media/1kncvVwp4FclaTt5q6/giphy.gif" width="30"> from Russia
+I am a QA Engineer <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="30"> from Russia
 - :computer: I’m working as a QA Engineer and contributing to frontend and backend for web applications
+
 - :mage_man: Exploring Test Automation
+  
 - :hourglass_flowing_sand: In my free time, I  read tech articles and ... eat <img src="https://media.giphy.com/media/1oHq98XVFhuNu8SoQx/giphy.gif" width="30">
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
